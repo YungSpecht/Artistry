@@ -1,0 +1,9 @@
+Package: com.rango.artistry
+Name: Artistry
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Show Song Artworks in all Spotify Playlists!
+Maintainer: Rango 
+Author: Yung Specht
+Section: Tweaks
